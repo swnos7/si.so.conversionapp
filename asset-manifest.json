@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swnos7/si.so.conversionapp/static/css/main.ae42ac5f.css",
+    "main.js": "/swnos7/si.so.conversionapp/static/js/main.b0e0a1bf.js",
+    "index.html": "/swnos7/si.so.conversionapp/index.html",
+    "main.ae42ac5f.css.map": "/swnos7/si.so.conversionapp/static/css/main.ae42ac5f.css.map",
+    "main.b0e0a1bf.js.map": "/swnos7/si.so.conversionapp/static/js/main.b0e0a1bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.b0e0a1bf.js"
+  ]
+}
